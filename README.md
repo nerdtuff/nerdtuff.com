@@ -1,4 +1,4 @@
-# nerdtuff :)
+# nt:) (nerdtuff)
 ## Overview
 Website development repository for nerdtuff.
 Link to website: [www.nerdtuff.com](https://www.nerdtuff.com "www.nerdtuff.com")
